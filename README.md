@@ -15,3 +15,5 @@ Place to collect all the resources and ideas that I have for coding projects. Fo
 - Linux distribution
 - OS kernel
 - Terminal emulator
+- Web browser
+  - https://github.com/browserengineering/book
