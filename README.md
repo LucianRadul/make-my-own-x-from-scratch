@@ -14,3 +14,4 @@ Place to collect all the resources and ideas that I have for coding projects. Fo
 - JavaScript framework
 - Linux distribution
 - OS kernel
+- Terminal emulator
