@@ -5,7 +5,8 @@ Place to collect all the resources and ideas that I have for coding projects. Fo
 - Linux shell in C
   - 4 part from basics to command execution and variables [here](https://blog.devgenius.io/lets-build-a-linux-shell-part-i-954c95911501).
 - Interpreted programming language
-- Compiled programming language
+- Compiled programming language with LLVM
+- Compiled programming language without LLVM
 - JVM programming language
 - Assembler
 - Simple compiler
@@ -15,5 +16,16 @@ Place to collect all the resources and ideas that I have for coding projects. Fo
 - Linux distribution
 - OS kernel
 - Terminal emulator
+- Custom computer architecture
+  - Emulator
+  - in Logisim
+  - with Verilog/VHDL
+- Physics engine
+- Fluid physics engine
+- Game engine
+- Circuits simulator
+- HTTP parser
+- HTTP server
+- TCP server
 - Web browser
   - https://github.com/browserengineering/book
