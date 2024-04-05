@@ -27,5 +27,6 @@ Place to collect all the resources and ideas that I have for coding projects. Fo
 - HTTP parser
 - HTTP server
 - TCP server
+- Heap allocator
 - Web browser
   - https://github.com/browserengineering/book
