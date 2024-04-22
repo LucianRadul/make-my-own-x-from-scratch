@@ -7,6 +7,7 @@ Place to collect all the resources and ideas that I have for coding projects. Fo
 - Interpreted programming language
 - Compiled programming language with LLVM
 - Compiled programming language without LLVM
+  - Walkthrough for a custom programming language in C++ [here](https://www.youtube.com/watch?v=vcSijrRsrY0)
 - JVM programming language
 - Assembler
 - Simple compiler
