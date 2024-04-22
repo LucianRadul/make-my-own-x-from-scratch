@@ -16,6 +16,7 @@ Place to collect all the resources and ideas that I have for coding projects. Fo
 - JavaScript framework
 - Linux distribution
 - OS kernel
+  - in Rust [here](https://os.phil-opp.com/) 
 - Terminal emulator
 - Custom computer architecture
   - Emulator
