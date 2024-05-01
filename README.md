@@ -30,5 +30,6 @@ Place to collect all the resources and ideas that I have for coding projects. Fo
 - HTTP server
 - TCP server
 - Heap allocator
+- Minimal Windows executable https://www.youtube.com/watch?v=6e9IgKQE2tk
 - Web browser
   - https://github.com/browserengineering/book
