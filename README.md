@@ -28,6 +28,8 @@ Place to collect all the resources and ideas that I have for coding projects. Fo
 - Circuits simulator
 - HTTP parser
 - HTTP server
+- Packet sniffer
+  - Article [here](https://organicprogrammer.com/2022/02/22/how-to-implement-libpcap-on-linux-with-raw-socket-part1/)
 - TCP server
 - Heap allocator
 - Minimal Windows executable https://www.youtube.com/watch?v=6e9IgKQE2tk
