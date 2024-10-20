@@ -3,11 +3,11 @@ Place to collect all the resources and ideas that I have for coding projects. Fo
 
 ## Specific applications
 - C++ source file finder from header:
-      - Input: a .hpp file
-      - Output: locations of the .cpp files that implement the .hpp file
+  - Input: a .hpp file
+  - Output: locations of the .cpp files that implement the .hpp file
 - Header file generator:
-      - Input: a .cpp file
-      - Output: a .hpp file with declarations and the .cpp file that implements all of them
+  - Input: a .cpp file
+  - Output: a .hpp file with declarations and the .cpp file that implements all of them
 
 ## Make from scratch:
 - Linux shell in C
