@@ -8,6 +8,7 @@ Place to collect all the resources and ideas that I have for coding projects. Fo
 - Header file generator:
   - Input: a .cpp file
   - Output: a .hpp file with declarations and the .cpp file that implements all of them
+- CMakeLists.txt generator from .cpp file. At least to make a library, not necessarily an executable
 
 ## Make from scratch:
 - Linux shell in C
