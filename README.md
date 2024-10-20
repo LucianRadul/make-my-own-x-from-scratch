@@ -1,7 +1,15 @@
-# Make-my-own-x-from-scratch
-
+# Project ideas
 Place to collect all the resources and ideas that I have for coding projects. For now it is/will be rather rough as it's meant to be more of a notes-storing repository than an organised thing.
 
+## Specific applications
+- C++ source file finder from header:
+      - Input: a .hpp file
+      - Output: locations of the .cpp files that implement the .hpp file
+- Header file generator:
+      - Input: a .cpp file
+      - Output: a .hpp file with declarations and the .cpp file that implements all of them
+
+## Make from scratch:
 - Linux shell in C
   - 4 part from basics to command execution and variables [here](https://blog.devgenius.io/lets-build-a-linux-shell-part-i-954c95911501).
 - Interpreted programming language
